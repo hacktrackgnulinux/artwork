@@ -1,5 +1,5 @@
 # artwork
-[Artwork] Artwork &lt;&lt;Hack|Track GNU/Linux
+[Artwork] Artwork <<Hack|Track GNU/Linux
 
 
 #    ____  _   _            _    _ _____               _    
