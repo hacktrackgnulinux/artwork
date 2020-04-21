@@ -1,6 +1,5 @@
-# artwork
-[Artwork] Artwork <<Hack|Track GNU/Linux
-
+# asset
+[Asset] Asset Digital Logo & Sumber Pendukung Lainnya dari Distro <<Hack|Track GNU/Linux
 
 #    ____  _   _            _    _ _____               _    
 #   / / / | | | | __ _  ___| | _| |_   _| __ __ _  ___| | __
